@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34902.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StokKayıtÖdev", "StokKayıtÖdev\StokKayıtÖdev.csproj", "{104A2FD7-8AFF-4B2D-851C-C4BB52A91C26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{104A2FD7-8AFF-4B2D-851C-C4BB52A91C26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{104A2FD7-8AFF-4B2D-851C-C4BB52A91C26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{104A2FD7-8AFF-4B2D-851C-C4BB52A91C26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{104A2FD7-8AFF-4B2D-851C-C4BB52A91C26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD342494-BE52-4F90-9343-5B7242B86ABD}
+	EndGlobalSection
+EndGlobal
